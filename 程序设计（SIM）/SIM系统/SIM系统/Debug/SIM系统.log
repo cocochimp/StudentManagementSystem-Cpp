@@ -1,0 +1,17 @@
+﻿  Student.cpp
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(68,6): warning C4102: “part”: 未引用的标签
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(36,18): warning C4101: “year”: 未引用的局部变量
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(36,11): warning C4101: “klass”: 未引用的局部变量
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(629,29): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(638,19): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(646,27): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(661,29): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(668,29): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(677,19): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(685,27): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(700,29): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(707,29): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(716,19): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(724,27): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+E:\专业资料\c++项目文件\大一（下）\SIM系统\SIM系统\Student.cpp(739,29): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  SIM系统.vcxproj -> E:\专业资料\c++项目文件\大一（下）\SIM系统\Debug\SIM系统.exe
