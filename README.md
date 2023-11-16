@@ -1,4 +1,5 @@
-# C++学生管理系统
+# StudentManagementSystem-Cpp
+基于C++语言的广东海洋大学学生管理系统
 
 ## 1.添加学生信息：
 
